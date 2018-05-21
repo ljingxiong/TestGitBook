@@ -1,3 +1,2 @@
-# My Awesome Book
+人来到这个世界上，总是要留点什么东西。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
