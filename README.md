@@ -1,4 +1,4 @@
-# &lt;center&gt;我的自传&lt;/center&gt;
+#                                                  我的自传
 
 ---
 
